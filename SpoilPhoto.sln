@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpoilPhoto-Classes", "SpoilPhoto-Classes\SpoilPhoto-Classes.csproj", "{BE9C8D66-B20C-4933-8BBE-98A84120121C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpoilPhoto-SistemaWeb", "SpoilPhoto-SistemaWeb\SpoilPhoto-SistemaWeb.csproj", "{DDAA9BC4-D701-4E1F-B190-B5348EF35EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9C8D66-B20C-4933-8BBE-98A84120121C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9C8D66-B20C-4933-8BBE-98A84120121C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9C8D66-B20C-4933-8BBE-98A84120121C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9C8D66-B20C-4933-8BBE-98A84120121C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAA9BC4-D701-4E1F-B190-B5348EF35EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAA9BC4-D701-4E1F-B190-B5348EF35EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAA9BC4-D701-4E1F-B190-B5348EF35EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAA9BC4-D701-4E1F-B190-B5348EF35EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
